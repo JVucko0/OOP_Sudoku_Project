@@ -1,2 +1,3 @@
 # OOP_Sudoku_Project
-Projekt za predmet Objektno Orjentirano Programiranje, Aplikacija Sudoku
+
+Aplikacija Sudoku napravljena za seminar predmeta Objektno orjentirano programiranj. Rađena u C#.
